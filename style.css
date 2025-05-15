@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: darkblue;
+    padding: 5px
+}
+header b {
+    color: white;
+}
+h1 {
+    color: blue;
+    text-align: center;
+    border: 5px solid darkblue;
+    border-radius: 20px;
+}
+footer {
+    background-color: rgb(255, 255, 255);
+}
+footer p {
+    background-color: blue;
+}
+.ipo {
+    background-color: rgb(0, 0, 255);
+}
+
